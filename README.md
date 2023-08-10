@@ -40,7 +40,9 @@
  
   <br/>
   
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=catnparrot&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catnparrot&layout=compact&theme=buefy&hide_border=true" /></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catnparrot&layout=compact&theme=buefy&hide_border=true" /> <br/>
+ <img src="https://github-readme-stats.vercel.app/api?username=catnparrot&theme=tokyonight&show_icons=true" width="42%" />  
+
 
   <br/>
   <br/>
