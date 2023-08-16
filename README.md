@@ -1,19 +1,14 @@
 ###
 <div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Parrot%27s%20GitHub%20&fontSize=40&fontAlignY=40&fontAlign=50&height=250&)
 
+</div>
 
- <br/>
+<div>
 
-
-
-  <br/>
-  
 #### :wave: My Stacks
-  
- <br/>
-  
+
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-F8DC75?style=for-the-badge&logo=springboot&logoColor=red"><br/>
@@ -26,54 +21,28 @@
 <img src="https://img.shields.io/badge/git-179287?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white">
 
-
-
-   
-   ---
+---
 
 #### 🌱 Learning Skills
 <img src="https://img.shields.io/badge/ts-1572B6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+ 
+---
 
-
-   <br/>
-   <br/>
-   
-  ---
-   
 #### 👀 Interested in ...
 <img src="https://img.shields.io/badge/c%23-1572B6?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/python-000080?style=for-the-badge&logo=python&logoColor=FFFF66">
 
-
-
-  <br/>
-  <br/>
-
 ---
-  
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catnparrot&layout=compact&theme=buefy&hide_border=true" /> <br/>
- <img src="https://github-readme-stats.vercel.app/api?username=catnparrot&theme=tokyonight&show_icons=true" width="42%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=catnparrot&theme=tokyonight&show_icons=true" width="42%" />  
 
+</div>
 
-  <br/>
-  <br/>
-  
-
-
-
-  
-  <br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&animation=fadeIn&section=footer)
-
-  </div>
-
-  <br/>
-  <br/>
-  
 ## 🎨 Dev
+
 </hr>
 <div align="center">
   
@@ -88,6 +57,7 @@
 
 <br/>
 
+</div>
 
 
 
