@@ -33,6 +33,7 @@
 #### 👀 Interested in ...
 <img src="https://img.shields.io/badge/c%23-1572B6?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/python-000080?style=for-the-badge&logo=python&logoColor=FFFF66">
+<img src="https://img.shields.io/badge/node-999966?style=for-the-badge&logo=node.js&logoColor=FFFF66">
 
 ---
 
