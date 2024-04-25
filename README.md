@@ -21,12 +21,12 @@
 <img src="https://img.shields.io/badge/git-179287?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-0077C3?style=for-the-badge&logo=PHP&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 ---
 
 #### 🌱 Learning Skills
 <img src="https://img.shields.io/badge/ts-1572B6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
  
 ---
