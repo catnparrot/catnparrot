@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/CSS3-6633FF?style=for-the-badge&logo=CSS3&logoColor=white"> <br/>
 <img src="https://img.shields.io/badge/git-179287?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-0077C3?style=for-the-badge&logo=PHP&logoColor=white">
 
 ---
 
